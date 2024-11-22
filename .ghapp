@@ -1,0 +1,10 @@
+{
+  "id": 57489030,
+  "created_at": "2024-11-22T17:35:42.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["asar", "satf", "asar-demo", "nmfs-ost.r-universe.dev"]
+}
