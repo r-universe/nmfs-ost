@@ -2,12 +2,6 @@
   {
     "package": "nmfspalette",
     "url": "https://github.com/nmfs-fish-tools/nmfspalette",
-    "via": ["asar"],
-    "from": "asar"
-  },
-  {
-    "package": "nmfspalette",
-    "url": "https://github.com/nmfs-fish-tools/nmfspalette",
     "via": ["satf"],
     "from": "satf"
   },
