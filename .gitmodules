@@ -5,10 +5,6 @@
 [submodule "asar"]
 	path = asar
 	url = https://github.com/nmfs-ost/asar
-[submodule "nmfspalette"]
-	path = nmfspalette
-	url = https://github.com/nmfs-fish-tools/nmfspalette
-	registered = false
 [submodule "r4ss"]
 	path = r4ss
 	url = https://github.com/r4ss/r4ss
