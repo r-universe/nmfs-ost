@@ -6,12 +6,6 @@
     "from": "asar"
   },
   {
-    "package": "nmfspalette",
-    "url": "https://github.com/nmfs-fish-tools/nmfspalette",
-    "via": ["satf"],
-    "from": "satf"
-  },
-  {
     "package": "r4ss",
     "url": "https://github.com/r4ss/r4ss",
     "via": ["asar"],
