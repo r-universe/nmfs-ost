@@ -13,7 +13,7 @@
   },
   {
     "package": "stockplotr",
-    "url": "https://github.com/nmfs-ost/satf",
+    "url": "https://github.com/nmfs-ost/stockplotr",
     "via": ["asar"],
     "from": "asar"
   }

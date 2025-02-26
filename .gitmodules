@@ -18,5 +18,5 @@
 	url = https://github.com/nmfs-ost/satf
 [submodule "stockplotr"]
 	path = stockplotr
-	url = https://github.com/nmfs-ost/satf
+	url = https://github.com/nmfs-ost/stockplotr
 	registered = false
