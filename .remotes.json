@@ -1,15 +1,33 @@
 [
   {
+    "package": "asar",
+    "url": "https://github.com/nmfs-ost/asar",
+    "via": ["stockplotr"],
+    "from": "stockplotr"
+  },
+  {
     "package": "nmfspalette",
     "url": "https://github.com/nmfs-fish-tools/nmfspalette",
     "via": ["asar"],
     "from": "asar"
   },
   {
+    "package": "nmfspalette",
+    "url": "https://github.com/nmfs-fish-tools/nmfspalette",
+    "via": ["stockplotr", "asar"],
+    "from": "stockplotr"
+  },
+  {
     "package": "r4ss",
     "url": "https://github.com/r4ss/r4ss",
     "via": ["asar"],
     "from": "asar"
+  },
+  {
+    "package": "r4ss",
+    "url": "https://github.com/r4ss/r4ss",
+    "via": ["stockplotr", "asar"],
+    "from": "stockplotr"
   },
   {
     "package": "stockplotr",
