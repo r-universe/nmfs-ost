@@ -13,10 +13,6 @@
 	path = r4ss
 	url = https://github.com/r4ss/r4ss
 	registered = false
-[submodule "satf"]
-	path = satf
-	url = https://github.com/nmfs-ost/satf
 [submodule "stockplotr"]
 	path = stockplotr
 	url = https://github.com/nmfs-ost/stockplotr
-	registered = false
