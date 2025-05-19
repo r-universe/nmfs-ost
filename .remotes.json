@@ -7,7 +7,7 @@
   },
   {
     "package": "nmfspalette",
-    "url": "https://github.com/nmfs-fish-tools/nmfspalette",
+    "url": "https://github.com/nmfs-ost/nmfspalette",
     "via": ["asar"],
     "from": "asar"
   },

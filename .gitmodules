@@ -7,7 +7,7 @@
 	url = https://github.com/nmfs-ost/asar
 [submodule "nmfspalette"]
 	path = nmfspalette
-	url = https://github.com/nmfs-fish-tools/nmfspalette
+	url = https://github.com/nmfs-ost/nmfspalette
 	registered = false
 [submodule "r4ss"]
 	path = r4ss
