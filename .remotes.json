@@ -14,7 +14,7 @@
   {
     "package": "nmfspalette",
     "url": "https://github.com/nmfs-ost/nmfspalette",
-    "via": ["stockplotr", "asar"],
+    "via": ["stockplotr"],
     "from": "stockplotr"
   },
   {
