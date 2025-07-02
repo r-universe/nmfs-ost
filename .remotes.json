@@ -8,7 +8,7 @@
   {
     "package": "nmfspalette",
     "url": "https://github.com/nmfs-ost/nmfspalette",
-    "via": ["asar"],
+    "via": ["asar", "stockplotr"],
     "from": "asar"
   },
   {
